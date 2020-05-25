@@ -1,3 +1,5 @@
+[![Build Status](https://srinarla.visualstudio.com/spacegame-demo/_apis/build/status/sridharnarla.mslearn-tailspin-spacegame-web?branchName=master)](https://srinarla.visualstudio.com/spacegame-demo/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
